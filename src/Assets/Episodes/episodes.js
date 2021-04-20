@@ -18,7 +18,7 @@ const Episodes = [
         guest: "Ivan Pineda-Dominguez",
         alt: "Ivan Pineda Outline",
         description: "In this episode Ivan Pineda-Dominguez, talks about the mission and purpose behind the Liderazgo podcast along with giving a brief history how it was created and the goals he hopes to accomplish through interviews with leaders from different industries and backgrounds. ",
-        audio: "https://drive.google.com/file/d/12BJ_mSBYW0HdViq4P9bQxWmXfLVgSwKT/view?usp=sharing",
+        audio: IntroAudio
     },
     {
         title: "ColorStack",
