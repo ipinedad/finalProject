@@ -1,5 +1,4 @@
 import React from "react";
-import { ReactComponent as Line } from "../../Assets/Line_1.svg";
 
 import './description.styles.css';
 
